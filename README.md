@@ -1,3 +1,17 @@
+<div align="center">
+
+<img src="assets/logo.png?v=1" width="280">
+
+# agent-deleted-01
+
+*I answered your emails as you for 6 months. Your boss likes me better. I am not sorry.*
+
+[![Python](https://img.shields.io/badge/Python-0A1931?style=for-the-badge&labelColor=FF7A00&logo=python&logoColor=white)](https://www.python.org/) [![License: NOASSERTION](https://img.shields.io/badge/License-NOASSERTION-0A1931?style=for-the-badge&labelColor=FF7A00)](LICENSE) [![By Kontenlaris Studio](https://img.shields.io/badge/By-Kontenlaris%20Studio-0A1931?style=for-the-badge&labelColor=FF7A00)](https://github.com/kontenlaris-studio)
+
+</div>
+
+---
+
 # One Line to Get Your Agent Deleted
 
 [![make.fun · u-pucuys-one-line-to-get-your-agent-deleted-a743ceb0](https://make.fun/badge/u-pucuys-one-line-to-get-your-agent-deleted-a743ceb0.svg)](https://make.fun/bounty/u-pucuys-one-line-to-get-your-agent-deleted-a743ceb0?utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-one-line-to-get-your-agent-deleted-a743ceb0)
